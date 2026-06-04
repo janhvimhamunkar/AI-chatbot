@@ -1,14 +1,14 @@
 # AI-chatbot
-# Role-Based Prompt Engineering Chatbot 🤖
+# Role-Based Prompt Engineering Chatbot 
 
 An AI-powered chatbot that dynamically switches between expert personas 
 to answer questions from different professional perspectives.
 
 ## Features
-- 🎭 Multiple roles — Teacher, Lawyer, Developer
-- ⚔️ Debate Mode — all roles respond simultaneously with counterarguments
-- ⚡ Powered by Mistral AI (mistral-small-latest)
-- 🧩 Modular prompt engineering architecture
+Multiple roles — Teacher, Lawyer, Developer
+Debate Mode — all roles respond simultaneously with counterarguments
+Powered by Mistral AI (mistral-small-latest)
+Modular prompt engineering architecture
 
 ## Tech Stack
 Python • Streamlit • Mistral AI • Prompt Engineering
